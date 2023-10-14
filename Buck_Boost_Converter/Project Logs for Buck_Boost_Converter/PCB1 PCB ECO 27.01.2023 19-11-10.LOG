@@ -1,0 +1,11 @@
+Added Component: Designator=J1(CONN_1770461)
+Added Pin To Net: NetName=V1 Pin=J1-1
+Added Pin To Net: NetName=V1 Pin=J1-2
+Added Pin To Net: NetName=GND Pin=J1-3
+Added Pin To Net: NetName=GND Pin=J1-3
+Added Pin To Net: NetName=GND Pin=J1-4
+Added Pin To Net: NetName=GND Pin=J1-4
+Added Member To Class: ClassName=Sheet2 Member=Component C44 0805
+Added Member To Class: ClassName=Sheet2 Member=Component J1 1770461 CONNECTOR
+Added Room: Name=Sheet1
+Added Room: Name=Sheet2
